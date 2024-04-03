@@ -1,0 +1,16 @@
+../images/girl/Idle (1).png
+../images/girl/Idle (2).png
+../images/girl/Idle (3).png
+../images/girl/Idle (4).png
+../images/girl/Idle (5).png
+../images/girl/Idle (6).png
+../images/girl/Idle (7).png
+../images/girl/Idle (8).png
+../images/girl/Idle (9).png
+../images/girl/Idle (10).png
+../images/girl/Idle (11).png
+../images/girl/Idle (12).png
+../images/girl/Idle (13).png
+../images/girl/Idle (14).png
+../images/girl/Idle (15).png
+../images/girl/Idle (16).png
